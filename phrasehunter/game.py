@@ -19,7 +19,7 @@ class Game:
     def welcome(self):
         print('Welcome to the Python version of WHEEL OF FORTUNE!')
 
-    #Start the game and evaluates if guesses and updates the hideen phrase
+    #Start the game and evaluates guesses and updates the hideen phrase
     #Also determines if the user has descovered the phrase or not
     #Lastly checks if user still wants to play another game
     def start(self):
